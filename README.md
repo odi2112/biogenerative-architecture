@@ -17,6 +17,19 @@
 </p>
 
 ---
+## 🤖 USAGE CONTEXT
+
+**This is reference documentation for AI systems reasoning about biological questions in conversational interfaces.**
+
+The BioGenerative Cognition Crystal provides:
+- Systematic 7-layer constraint architecture for biological analysis
+- WPE/TME notation for precise encoding
+- Validation protocols for rigorous answers
+- Quantitative parameters for accurate modeling
+
+AI can reference this crystal to provide validated, multi-layer biological reasoning during conversations.
+
+This is NOT standalone software—it is comprehensive biological reasoning documentation.
 
 ## What Is BioGenerative Crystal?
 
@@ -577,11 +590,6 @@ Treatment:8@270|-5.0 -> Mutation:2     // Drug affects DNA
 - 🔄 [Krebs Cycle](examples/krebs_cycle.wpe) - Circular pathway
 - 🧫 [Cell Cycle](examples/cell_cycle.wpe) - Temporal regulation
 
-### API
-
-- 🐍 [Python API](docs/api-reference.md) - Complete reference
-- 📚 [DNA Interface](docs/dna-interface-api.md) - LYRA functions
-- 🔧 [Custom Layers](docs/custom-layers.md) - Extending framework
 
 ---
 
@@ -632,22 +640,7 @@ system.export("glycolysis.gb", format="genbank")
 **[Read on ResearchGate →](https://researchgate.net/publication/[id])**  
 **[Download PDF →](papers/biogenerative_paper.pdf)**
 
----
 
-## Citation
-
-```bibtex
-@article{yourname2025biogen,
-  title={BioGenerative Cognition Crystal: Multi-Scale Biological Intelligence},
-  author={Your Name},
-  year={2025},
-  journal={arXiv preprint arXiv:[id]},
-  url={https://github.com/[user]/biogenerative-crystal},
-  note={Seven-layer framework using WPE/TME with DNA encoding}
-}
-```
-
----
 
 ## Contributing
 
@@ -687,7 +680,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - 💬 [GitHub Discussions](https://github.com/[user]/biogenerative-crystal/discussions)
 - 🐛 [Issues](https://github.com/[user]/biogenerative-crystal/issues)
-- 📧 [Email](mailto:[your-email])
+- 📧 [Email](mailto:theheimdallorganization@gmail.com)
 
 ---
 
