@@ -633,11 +633,11 @@ system.export("glycolysis.gb", format="genbank")
 
 ## Research Paper
 
-📄 **BioGenerative Cognition Crystal: Multi-Scale Biological Intelligence**
+📄 **A Constraint-Based Generative Architecture for Biological Systems**
 
-**Abstract:** We present BioGenerative Crystal, a seven-layer framework for modeling biological intelligence across 13 orders of magnitude (picoseconds to millennia). Built on WPE/TME geometric calculus notation, the framework encodes quantum mechanics, chemistry, physics (L0), universal constraints (L1), selection operators (L2), information with DNA encoding (L3), robustness mechanisms (L4), generative design (L5), layer coupling (L6), and quantitative computation (L7). The LYRA Θ∞ interface maps WPE/TME operators to DNA codons, enabling encoding of computational logic in genetic sequences. We demonstrate applications to metabolic engineering, gene regulatory networks, and synthetic biology design. The framework unifies modeling and design, bridging systems biology and synthetic biology.
+**Abstract:** This paper presents the BioGenerative Cognition Crystal, a constraint-based generative architecture for modeling biological systems from first principles. Unlike database-driven or template-based approaches, the framework generates complete biological solutions through hierarchical constraint satisfaction across seven distinct organizational layers. Each layer encodes specific categories of constraints: substrate physics and chemistry (Layer 0), universal biological laws (Layer 1), evolutionary forces (Layer 2), information encoding including DNA (Layer 3), robustness mechanisms (Layer 4), generative optimization (Layer 5), layer coupling (Layer 6), and quantitative computation (Layer 7). Version 2.0 integrates \lyra{} (Logic Yielding Recursive Analysis) DNA capabilities based on information physics, enabling bidirectional translation between DNA sequences and functional biological models through Wave Pattern Encoding notation. The architecture implements circular causation through bidirectional layer coupling, ensuring self-consistency across all organizational levels. An eight-level validation framework systematically tests solutions against constraints spanning substrate physics through quantitative accuracy. This paper provides comprehensive documentation of theoretical foundations, architectural principles, detailed layer specifications, DNA integration methodology, and validation protocols.
 
-**[Read on ResearchGate →](https://researchgate.net/publication/[id])**  
+**[Read on ResearchGate →](https://doi.org/10.13140/RG.2.2.31969.57448)**  
 **[Download PDF →](papers/biogenerative_paper.pdf)**
 
 
@@ -693,7 +693,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-MIT License - see [LICENSE](LICENSE)
+Apache 2.0 License - see [LICENSE](LICENSE)
 
 ---
 
