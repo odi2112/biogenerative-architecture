@@ -1,4 +1,8 @@
-# D'Hawk's BioGenerative Cognition Crystal
+
+  ◇    D ' H A W K - L A B S   ◇         
+
+
+<h3 align="center">D'Hawk's BioGenerative Cognition Crystal</h3>
 
 <h3 align="center">Multi-Scale Biological AI Architecture with DNA-Encoded Computational Logic</h3>
 
